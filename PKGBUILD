@@ -1,7 +1,7 @@
 # Maintainer: Tobias Frilling <tobias@frilling-online.de>
 
 pkgname=leiningen
-pkgver=2.7.0
+pkgver=2.7.1
 pkgrel=1
 epoch=1
 pkgdesc="Automating Clojure projects without setting your hair on fire."
@@ -29,7 +29,7 @@ package() {
 
 }
 
-sha256sums=('db2069e9a87c72c7f83934e3068dc4b28c688115f7869056c4150392abc54c3d'
-            'b0a53fd9fa73e9d87c04ef25ba1ca174b0c062b803108648d7157176ccde7435'
+sha256sums=('953c95c2656c46320c88dc683202030fdd9554e8390a4b4aaaba6d019088df6f'
+            '2ddc7e89bbb45cf1ca3d666a10dce0d3f154b77ad201aa58f430e84e71587c47'
             'SKIP')
 
